@@ -1,1 +1,4 @@
 Hello
+This a new line in the newfile
+Hello test
+
